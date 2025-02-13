@@ -12,8 +12,8 @@ Follow these steps to set up and run the UI Automation Tool on your local machin
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-repo/ui-automation-tool.git
-    cd ui-automation-tool
+    git clone https://github.com/gopinadh516/codegenerator.git
+    cd codegenerator
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**

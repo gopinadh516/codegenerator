@@ -13,8 +13,8 @@ This project is a UI Automation Tool that converts images into code using the po
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/ui-automation-tool.git
-    cd ui-automation-tool
+   git clone https://github.com/gopinadh516/codegenerator.git
+    cd codegenerator
     ```
 
 2. Install the required Python packages:
